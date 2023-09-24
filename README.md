@@ -1,5 +1,5 @@
 # aimations
-
+hosted link-> https://tanishka-khamesara.github.io/aimations/index.html
 
 
 ![Screenshot (123)](https://github.com/Tanishka-khamesara/aimations/assets/127411985/0d55683a-915c-4fe6-95c8-b49f2e5b60bb)
